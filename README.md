@@ -1,8 +1,8 @@
 # CADEMICS
-Submission for a national level hackathon for the design of a Comfortable Workstation for professionals working from home during COVID-19
-CAD software: SOLIDWORKS 2019 (Educational License)
+Winning submission for a National-level hackathon for the design of a Comfortable Workstation for professionals working from home during COVID-19
+CAD software: SOLIDWORKS 2019-20 (Educational License)
 
-## The Final Assemlby
+## The Final Assembly
 ![render 1](https://user-images.githubusercontent.com/67819132/182008736-3d97b203-189d-4805-8429-b920ce118828.JPG)
 ![image](https://user-images.githubusercontent.com/67819132/182008444-4c814990-90bf-4751-874b-2243f231a592.png)
 ![image](https://user-images.githubusercontent.com/67819132/182008458-d16471e7-4068-4feb-8b47-a1e4a6685d46.png)
